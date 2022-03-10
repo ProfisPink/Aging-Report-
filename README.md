@@ -1,4 +1,4 @@
-# Aging-Report-
+# Aging-Report
 
 An Aging report is an autommated tool used to determine the age of certains items.
 
